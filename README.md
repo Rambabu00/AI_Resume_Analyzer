@@ -240,10 +240,14 @@ It reflects practical AI engineering skills beyond simple API usage.
 
 ## 🌍 Deployment
 
-Frontend:  https://ai-resume-analyzer-eta-nine.vercel.app/
-Backend:   1) https://ai-powered-resume-analyzer-d0jh.onrender.com/api/analyzer
+Frontend:    https://ai-resume-analyzer-3pu1jmlic-rambabu00s-projects.vercel.app/
+             Render Backend:- 
+Backend:   1) https://ai-powered-resume-analyzer-d0jh.onrender.com/api/analyze
            2) https://ai-powered-resume-analyzer-d0jh.onrender.com/api/chat
-
+           Railway Backend:- 
+           1) https://airesumeanalyzer-production-a67d.up.railway.app/api/analyze
+           2) https://airesumeanalyzer-production-a67d.up.railway.app/api/chat
+           
 ---
 
 ## 👨‍💻 Author
