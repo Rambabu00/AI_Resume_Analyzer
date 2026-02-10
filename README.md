@@ -240,8 +240,9 @@ It reflects practical AI engineering skills beyond simple API usage.
 
 ## 🌍 Deployment
 
-Frontend: (Add deployment URL)  
-Backend: (Add deployment URL)
+Frontend:  https://ai-resume-analyzer-eta-nine.vercel.app/
+Backend:   1) https://ai-powered-resume-analyzer-d0jh.onrender.com/api/analyzer
+           2) https://ai-powered-resume-analyzer-d0jh.onrender.com/api/chat
 
 ---
 
